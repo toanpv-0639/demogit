@@ -2,6 +2,6 @@ print(123)
 
 print('Hello')
 
-print('xxxxx')
+print('yyyyy')
 
-print(12346)
+print(123123123)
